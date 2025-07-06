@@ -22,19 +22,16 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner wi
 ## 🌟 Featured Projects
 Here are some of my favorite projects I've worked on. You can find more in the pinned repositories below.
 
-### [🔗 Project Name 1](link to project)
+### [🔗 Prospactive in Life Take ](link to project)
 - A brief description of the project.
-- **Tech stack**: [Languages/Frameworks used]
+- **Tech stack**: [https://github.com/hemantshirsath/Expensetracker]
   
-### [🔗 Project Name 2](link to project)
-- A brief description of the project.
-- **Tech stack**: [Languages/Frameworks used]
 
-### [🔗 Project Name 3](link to project)
-- A brief description of the project.
-- **Tech stack**: [Languages/Frameworks used]
+### [🔗📌 Tech: Python + Flask + ML
 
----
+🧠 Add AI: Predict health risks based on daily inputs (BP, sugar, weight).
+- **Tech stack**: [https://github.com/automprojects/expense_analyzer]
+
 
 ## 📊 GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
